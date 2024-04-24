@@ -1,7 +1,11 @@
 # Scraping Jobs on LinkedIn & Indeed
 Implementation of jobs recommendation algorithm by web scraping
 
-https://user-images.githubusercontent.com/56866008/136713739-fb332ca9-5151-4481-b373-3531a43a8dae.mp4
+
+
+https://github.com/bilalfatian/Scraping-Jobs-on-LinkedIn-Indeed/assets/92918987/18111c50-1660-4e91-ab0c-87d1678e6be9
+
+
 
 ## Table of contents 📝
 * [My goals](#my-goals)
@@ -108,9 +112,13 @@ For *LinkedIn* website, the parameter geoId was required to scrap data. Informat
 
 <p align="center">
   <kbd>
-  <img width=1000 src="https://user-images.githubusercontent.com/56866008/136706114-b53fb869-7b16-4a1d-b52b-b90e17ce4d2a.jpg"><br>
+  <img width=1000 src="https://github.com/bilalfatian/Scraping-Jobs-on-LinkedIn-Indeed/assets/92918987/e7730b47-d756-4966-910f-c6bce4080755"><br>
   </kbd>
 </p>
+
+
+
+
 
 - As regarding the content, several information is displayed to the user:
     - **ID**: Integer, the job id in the table
@@ -132,9 +140,10 @@ For example, assuming that a user make a request with ```Preferred keywords (in 
 
 <p align="center">
   <kbd>
-  <img width=1000 src="https://user-images.githubusercontent.com/56866008/136706327-86e60f96-3b9f-424a-ba3d-2a71bef756ee.png"><br>
+  <img width=1000 src="https://github.com/bilalfatian/Scraping-Jobs-on-LinkedIn-Indeed/assets/92918987/c92567e4-9ff6-41ba-b55a-9ea58ced1266"><br>
   </kbd>
 </p>
+
 
 - You can also rank jobs by others criteria such as **ID**, **Company**, **Company type**, **Company sector**, **Country**, **City** and **Date** with ranking buttons (jobs are sorted by alphabetical order [A-Z] and descending number [9-0].
 
