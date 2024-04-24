@@ -1,4 +1,4 @@
-# Web-scraping-jobs
+# Scraping Jobs on LinkedIn & Indeed
 Implementation of jobs recommendation algorithm by web scraping
 
 https://user-images.githubusercontent.com/56866008/136713739-fb332ca9-5151-4481-b373-3531a43a8dae.mp4
@@ -16,7 +16,6 @@ https://user-images.githubusercontent.com/56866008/136713739-fb332ca9-5151-4481-
 Estimated reading time : ⏱️ 5min
 
 ## My goals 🎯
-- Find an internship for my final year as student (equivalent to Master degree) in Data Science in Europe (5-6 months from February 2022)
 - Learn how to gather information (by web scraping) to build a dataset 
 - Build a web app with Flask
 
@@ -218,5 +217,3 @@ $ flask run
 - Inspired by the work of *Python Engineer* with his YouTube video [Python Flask Beginner Tutorial - Todo App - Crash Course](https://www.youtube.com/watch?v=yKHJsLUENl0) for **Flask app implementation**. 
 - Help with **Flask installation** [here](https://flask.palletsprojects.com/en/2.0.x/installation/).
 - Help with **Jinja2 Templates and Forms** [here](https://www.codecademy.com/learn/learn-flask/modules/flask-templates-and-forms/cheatsheet).
-<!-- - Help with **Web App deployment on Heroku** [here](https://www.heroku.com/) and [here](https://devcenter.heroku.com/articles/heroku-cli). -->
-- Thanks to *RobertAKARobin* for his solution to **solve LinkedIn access blocking** on [Stack Overflow](https://stackoverflow.com/questions/53749379/download-a-linkedin-page).
