@@ -226,3 +226,9 @@ $ flask run
 - Inspired by the work of *Python Engineer* with his YouTube video [Python Flask Beginner Tutorial - Todo App - Crash Course](https://www.youtube.com/watch?v=yKHJsLUENl0) for **Flask app implementation**. 
 - Help with **Flask installation** [here](https://flask.palletsprojects.com/en/2.0.x/installation/).
 - Help with **Jinja2 Templates and Forms** [here](https://www.codecademy.com/learn/learn-flask/modules/flask-templates-and-forms/cheatsheet).
+
+
+## Contact Me 📨
+
+- **LinkedIn:** [Bilal Fatian](https://www.linkedin.com/in/bilal-fatian-806813254/)
+- **Gmail:** [fatian.bilal@gmail.com](mailto:fatian.bilal@gmail.com)
